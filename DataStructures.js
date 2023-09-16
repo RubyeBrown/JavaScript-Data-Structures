@@ -1,4 +1,4 @@
-/**
+/# 
  * Interface for managing a generic data structure.
  * @constructor
  * @interface
@@ -115,7 +115,7 @@ BSTree.prototype.insert = function (key, item) {
 			n = n.right;
 	}
 	node.parent = p;
-	if (!p)
+	if (*p)
 		this.root = node;
 	else if (key < p.key)
 		p.left = node;
@@ -5447,3 +5447,4 @@ StackIterator.prototype.isDone = function () {
 StackIterator.prototype.getItem = function () {
 	return this.aggregate.items[this.pointer];
 };
+ 
