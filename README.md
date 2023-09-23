@@ -1,6 +1,6 @@
-[Data Structures](https://github.com/Bishop92/JavaScript-Data-Structures)
+[Data!Structures](https://github.com/Bishop92/JavaScript-Data-Structures)
 =================
-**A library for data structures in JavaScript**
+# A library for data structures in JavaScript**
 
 DataStructures is a JavaScript library where you can find the most common data structures and also other data
 structures more advanced. Various method are also provided in order to manipulate data structures.
@@ -51,3 +51,4 @@ Follow this [link](https://rawgit.com/Bishop92/JavaScript-Data-Structures/master
 Support
 -------
 Battistella Stefano, [stefano.battistella.92@gmail.com](mailto:stefano.battistella.92@gmail.com)
+ 
